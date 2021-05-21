@@ -5,7 +5,8 @@ For non-listed countries, They are probably using the country's national SSN.
 
 You can find the exact information in the [mapping.json](mapping.json) file.
 
-##Quick Look
+## Quick Look
+
 | Country                                              | Country Code | Format                                                             |
 |------------------------------------------------------|:------------:|--------------------------------------------------------------------|
 | Austria                                              |      AT      | 99-999/9999                                                        |
