@@ -1,8 +1,11 @@
 # Tax Identification Number Reference
 This library provides all the valid formats of tax identification numbers based on each country.
 
+For non-listed countries, They are probably using the country's national SSN.
+
 You can find the exact information in the [mapping.json](mapping.json) file.
 
+##Quick Look
 | Country                                              | Country Code | Format                                                             |
 |------------------------------------------------------|:------------:|--------------------------------------------------------------------|
 | Austria                                              |      AT      | 99-999/9999                                                        |
