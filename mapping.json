@@ -1,0 +1,285 @@
+[
+  {
+    "countryCode": "at",
+    "format": [
+      "99-999/9999"
+    ]
+  },
+  {
+    "countryCode": "be",
+    "format": [
+      "99999999999"
+    ]
+  },
+  {
+    "countryCode": "bg",
+    "format": [
+      "9999999999"
+    ]
+  },
+  {
+    "countryCode": "cy",
+    "format": [
+      "99999999L"
+    ]
+  },
+  {
+    "countryCode": "cz",
+    "format": [
+      "999999/999",
+      "999999/9999"
+    ]
+  },
+  {
+    "countryCode": "de",
+    "format": [
+      "99999999999"
+    ]
+  },
+  {
+    "countryCode": "dk",
+    "format": [
+      "999999-9999"
+    ]
+  },
+  {
+    "countryCode": "ee",
+    "format": [
+      "99999999999"
+    ]
+  },
+  {
+    "countryCode": "es",
+    "format": [
+      "99999999L",
+      "L9999999L",
+      "K9999999L",
+      "X9999999",
+      "Y9999999",
+      "Z9999999",
+      "M9999999L"
+    ]
+  },
+  {
+    "countryCode": "fi",
+    "format": [
+      "999999-999L",
+      "999999-9999"
+    ]
+  },
+  {
+    "countryCode": "fr",
+    "format": [
+      "99 99 999 999 999"
+    ]
+  },
+  {
+    "countryCode": "hr",
+    "format": [
+      "99999999999"
+    ]
+  },
+  {
+    "countryCode": "hu",
+    "format": [
+      "9999999999"
+    ]
+  },
+  {
+    "countryCode": "ie",
+    "format": [
+      "9999999L"
+    ]
+  },
+  {
+    "countryCode": "it",
+    "format": [
+      "LLLLLL99L99L999L"
+    ]
+  },
+  {
+    "countryCode": "lt",
+    "format": [
+      "99999999999"
+    ]
+  },
+  {
+    "countryCode": "lu",
+    "format": [
+      "9999999999999"
+    ]
+  },
+  {
+    "countryCode": "lv",
+    "format": [
+      "DDMMYY99999",
+      "32999999999"
+    ]
+  },
+  {
+    "countryCode": "mt",
+    "format": [
+      "0000999L",
+      "9999999L"
+    ]
+  },
+  {
+    "countryCode": "nl",
+    "format": [
+      "999999999"
+    ]
+  },
+  {
+    "countryCode": "pl",
+    "format": [
+      "99999999999",
+      "9999999999"
+    ]
+  },
+  {
+    "countryCode": "pt",
+    "format": [
+      "999999999"
+    ]
+  },
+  {
+    "countryCode": "ro",
+    "format": [
+      "9999999999999"
+    ]
+  },
+  {
+    "countryCode": "se",
+    "format": [
+      "999999\u20139999"
+    ]
+  },
+  {
+    "countryCode": "si",
+    "format": [
+      "99999999"
+    ]
+  },
+  {
+    "countryCode": "sk",
+    "format": [
+      "9999999999",
+      "999999/999"
+    ]
+  },
+  {
+    "countryCode": "gb",
+    "format": [
+      "9999999999",
+      "LL999999L"
+    ]
+  },
+  {
+    "countryCode": "ch",
+    "format": [
+      "9999999999"
+    ]
+  },
+  {
+    "countryCode": "ar",
+    "format": [
+      "23999999999"
+    ]
+  },
+  {
+    "countryCode": "br",
+    "format": [
+      "99.999.999/9999-99"
+    ]
+  },
+  {
+    "countryCode": "cn",
+    "format": [
+      "999999999999999999"
+    ]
+  },
+  {
+    "countryCode": "gr",
+    "format": [
+      "999999999"
+    ]
+  },
+  {
+    "countryCode": "hk",
+    "format": [
+      "M 999999 (9)",
+      "99999999-999-99-99-9"
+    ]
+  },
+  {
+    "countryCode": "is",
+    "format": [
+      "999999-9999"
+    ]
+  },
+  {
+    "countryCode": "kr",
+    "format": [
+      "999-99-99999",
+      "999999-9999999"
+    ]
+  },
+  {
+    "countryCode": "li",
+    "format": [
+      "999999999999"
+    ]
+  },
+  {
+    "countryCode": "mx",
+    "format": [
+      "LLLL999999LLL",
+      "LLL999999LLL"
+    ]
+  },
+  {
+    "countryCode": "gg",
+    "format": [
+      "GYXXXXXX"
+    ]
+  },
+  {
+    "countryCode": "nz",
+    "format": [
+      "99999999",
+      "999999999"
+    ]
+  },
+  {
+    "countryCode": "no",
+    "format": [
+      "999999999",
+      "999999999LLL"
+    ]
+  },
+  {
+    "countryCode": "sg",
+    "format": [
+      "999999999"
+    ]
+  },
+  {
+    "countryCode": "th",
+    "format": [
+      "9999999999999"
+    ]
+  },
+  {
+    "countryCode": "je",
+    "format": [
+      "LL999999A"
+    ]
+  },
+  {
+    "countryCode": "ph",
+    "format": [
+      "999-999-999-999V",
+      "999-999-999-999N"
+    ]
+  }
+]
